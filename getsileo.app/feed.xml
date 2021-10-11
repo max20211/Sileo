@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://getsileo.app/feed.xml" rel="self" type="application/atom+xml" /><link href="http://getsileo.app/" rel="alternate" type="text/html" /><updated>2021-08-18T16:47:01+00:00</updated><id>http://getsileo.app/feed.xml</id><title type="html">Sileo</title><subtitle>Unpack the full potential of your iDevice.</subtitle><entry><title type="html">2020 in Review</title><link href="http://getsileo.app/2021/02/12/year-in-review" rel="alternate" type="text/html" title="2020 in Review" /><published>2021-02-12T00:00:00+00:00</published><updated>2021-02-12T00:00:00+00:00</updated><id>http://getsileo.app/2021/02/12/year-in-review</id><content type="html" xml:base="http://getsileo.app/2021/02/12/year-in-review">&lt;p&gt;While 2020 was a year of many downs, the jailbreak community saw healthy growth, and huge shifts in our thinking and behaviour, as we adapted to a “new normal”.&lt;/p&gt;
+
+&lt;p&gt;While checkra1n debuted in 2019, the team’s efforts in 2020 can’t go unnoticed, with the hardwork that went into iOS 14 support, the ever evolving pongoOS and even managing to run checkra1n on the T2. Without checkra1n, we wouldn’t also have Odysseyra1n, which can be used seamlessly with Odyssey itself on supported devices!&lt;/p&gt;
+
+&lt;p&gt;Speaking of Odyssey, shout out to &lt;a href=&quot;https://twitter.com/Diatrus&quot;&gt;Hayden&lt;/a&gt; and the other &lt;a href=&quot;https://github.com/ProcursusTeam/Procursus&quot;&gt;Procursus&lt;/a&gt; contributors (Like &lt;a href=&quot;https://twitter.com/hbkirb&quot;&gt;kirb&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/marijuanarm&quot;&gt;Adam&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/1ConanEdogawa&quot;&gt;1Conan&lt;/a&gt; and more) for their incredible, modern, open source bootstrap which underpins Odyssey and Odysseyra1n, and hopefully many more jailbreaks to come. Procursus has a wealth of important, interesting and intriguing packages, and if it doesn’t have what you want? You can add it yourself!&lt;/p&gt;
+
+&lt;p&gt;We can’t forget the other great jailbreaks we’ve had this year! iOS 13.5 was jailbroken while signed by &lt;a href=&quot;https://twitter.com/unc0verTeam&quot;&gt;unc0ver&lt;/a&gt;, and Odyssey soon followed, being open source, and then being updated for iOS 13.7, which is still the most recent arm64e jailbreak.&lt;/p&gt;
+
+&lt;p&gt;And we can’t forget about developers who made some amazing tweaks for us to use! Such as &lt;a href=&quot;https://twitter.com/LaughingQuoll&quot;&gt;LaughingQuoll&lt;/a&gt;’s &lt;a href=&quot;https://repo.packix.com/package/com.laughingquoll.prysm&quot;&gt;Prysm&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/jcxdev&quot;&gt;jcx&lt;/a&gt;’s &lt;a href=&quot;https://chariz.com/buy/iris&quot;&gt;Iris&lt;/a&gt;, or &lt;a href=&quot;https://twitter.com/noisyflake&quot;&gt;NoisyFlake&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/HiMyNameIsUbik&quot;&gt;Ubik&lt;/a&gt;’s &lt;a href=&quot;https://chariz.com/buy/velvet&quot;&gt;Velvet&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And last but not least, some great themes, including &lt;a href=&quot;https://twitter.com/hellogabe&quot;&gt;gabehern&lt;/a&gt;’s &lt;a href=&quot;http://buy.dyn.dev/gojipro&quot;&gt;Goji Pro&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/thatmirac&quot;&gt;Mirac&lt;/a&gt;’s &lt;a href=&quot;http://buy.dyn.dev/kindastock&quot;&gt;KindaStock&lt;/a&gt; which left beta in 2020, and &lt;a href=&quot;https://twitter.com/xerusdesign&quot;&gt;xerus&lt;/a&gt;’ &lt;a href=&quot;http://buy.dyn.dev/felicitypro&quot;&gt;Felicity Pro&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;All in all, 2020 was a great year to be a jailbreaker and we can’t wait to see what 2021 brings!&lt;/p&gt;
+
+&lt;p&gt;If you would like help setting up Odysseyra1n or would like help with an issue, join the &lt;a href=&quot;https://discord.gg/YRD4mSA&quot;&gt;Sileo Discord&lt;/a&gt;!&lt;/p&gt;
+
+&lt;hr /&gt;</content><author><name>23 Aaron</name></author><summary type="html">While 2020 was a year of many downs, the jailbreak community saw healthy growth, and huge shifts in our thinking and behaviour, as we adapted to a “new normal”.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://getsileo.app/img/editorials/2020review/header.png" /><media:content medium="image" url="http://getsileo.app/img/editorials/2020review/header.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Odysseyra1n/Procursus</title><link href="http://getsileo.app/2020/06/08/odysseyra1n" rel="alternate" type="text/html" title="Odysseyra1n/Procursus" /><published>2020-06-08T00:00:00+00:00</published><updated>2020-06-08T00:00:00+00:00</updated><id>http://getsileo.app/2020/06/08/odysseyra1n</id><content type="html" xml:base="http://getsileo.app/2020/06/08/odysseyra1n">&lt;p&gt;For avid checkra1n fans, an alternative solution now exists for the utilities you use! Odysseyra1n is a new solution from &lt;a href=&quot;https://twitter.com/CStar_OW&quot;&gt;Coolstar&lt;/a&gt;, and comes with the new, &lt;a href=&quot;https://github.com/ProcursusTeam/Procursus&quot;&gt;open source&lt;/a&gt; Procursus bootstrap from &lt;a href=&quot;https://twitter.com/Diatrus&quot;&gt;Diatrus&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Odysseyra1n lets you use full libhooker for the first time! Libhooker is a substrate/substitute alternative built from the ground up by Coolstar with speed and stability in mind. Libhooker is also built with the iOS 13 jetsam issues in mind, so you don’t need to worry about random crashes or tweak-based fixes.&lt;/p&gt;
+
+&lt;p&gt;Procursus was designed from the ground up to be open source and accessible by all, and comes with 133 packages, that Diatrus has been working on, including wget2, which is a first for any iOS boostrap! Procursus was designed to be easily added to any jailbreak for quick, easy access to necessary utilities, and has modern, updated versions of essential packages.&lt;/p&gt;
+
+&lt;p&gt;If you have a checkra1n compatible device, check out Odysseyra1n using this &lt;a href=&quot;https://www.reddit.com/r/jailbreak/comments/gwpy2r/tutorial_how_to_install_odysseyra1n_on_your_phone/&quot;&gt;great guide&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/Cimmerian_Iter&quot;&gt;Cimmerian Iter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you would like help setting up Odysseyra1n or would like help with an issue, join the &lt;a href=&quot;https://discord.gg/YRD4mSA&quot;&gt;Sileo Discord&lt;/a&gt;!&lt;/p&gt;
+
+&lt;hr /&gt;</content><author><name>23 Aaron</name></author><summary type="html">For avid checkra1n fans, an alternative solution now exists for the utilities you use! Odysseyra1n is a new solution from Coolstar, and comes with the new, open source Procursus bootstrap from Diatrus.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://getsileo.app/img/editorials/odysseyra1n/header.png" /><media:content medium="image" url="http://getsileo.app/img/editorials/odysseyra1n/header.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">nControl</title><link href="http://getsileo.app/2019/09/28/ncontrol" rel="alternate" type="text/html" title="nControl" /><published>2019-09-28T00:00:00+00:00</published><updated>2019-09-28T00:00:00+00:00</updated><id>http://getsileo.app/2019/09/28/ncontrol</id><content type="html" xml:base="http://getsileo.app/2019/09/28/ncontrol">&lt;p&gt;Would you like to hear about the single most useless thing Apple sells in the Apple Store? It’s not the HomePod. It’s not the base 21.5” iMac with a 1080p display, spinning hard drive and 3 generation old i5 for $1,099. It’s not even the “Waterproof” AirPods case, which is tantamount to putting your AirPods into an open condom. The sad truth is that the most useless thing you can buy at the Apple Store is, in fact, quite a good product, none other than the SteelSeries Nimbus. It’s a fantastic controller with great features like being comfortable to hold, lovely tactile buttons, and it takes the same charger as your iPhone/iPad (unless you own an iPad Pro 3rd gen, you absolute baller, you).&lt;/p&gt;
+
+&lt;p&gt;So why is it useless? Well, unless you live inside some weird bizarro land where people pray to a shrine of Steve Jobs every Sunday and Microsoft is the name you give to the dude who can’t get it up, you very likely own a gaming console, or a PC, and if you don’t, you probably don’t tend to do much gaming. So a games controller that doesn’t work with any conventional gaming setup, but only works with your Netflix box and your Facebook scroller makes almost no sense, especially since controller support is optional in every single game on iOS and tvOS anyway.&lt;/p&gt;
+
+&lt;p&gt;So this is where nControl comes in. Instead of buying a controller just for the Apple devices you own, why not use the great, functional controllers you already have lying around? Joy-Cons, Dualshock 4s, Xbox One controllers (Bluetooth models) and more are already supported, with more controllers planned to be supported in future releases, such as the Steam controller. So instead of spending $40 on the Nimbus, you can spend $10 on this tweak, and gain the benefit of using a controller you’re already familiar with, with a familiar button layout, trigger sensitivity and analogy stick location, along with easy pairing, and a simple, no-frills app, which is good, because the focus here is not the app, it’s the functionality.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/editorials/ncontrol/iOS-1.png&quot; width=&quot;200&quot; height=&quot;auto&quot; /&gt;
+&lt;img src=&quot;/img/editorials/ncontrol/iOS-2.png&quot; width=&quot;200&quot; height=&quot;auto&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once you’ve sorted the pairing, the fun begins. For my personal use, I use my DualShock 4, and typically play the App Store GTA games or PS4 Remote Play on my iPad Pro 10.5”, jailbroken with Chimera. There is no noticeable latency, an especially big deal in a game like GTA where fast reflexes can be necessary for some of the hairier gunfights, the light bar works just fine, and the experience feels completely native. What’s more is that the disconnection/reconnection of the controller works far better here than it ever did on Controllers4All, and is an all-around pleasant experience.&lt;/p&gt;
+
+&lt;p&gt;Another good aspect is simply how well documented the tweak is. It has its &lt;a href=&quot;https://wiki.awkwardtv.org/wiki/NControl&quot;&gt;own wiki page&lt;/a&gt;, with a detailed changelog, planned features and even a section dedicated to controllers the developers attempted to support but had no success with. No tweak I can think of has documentation this detailed and thorough, and succinctly answers so many frequently asked questions.&lt;/p&gt;
+
+&lt;p&gt;Planned features include Keyboard and Mouse support, which could evolve this into far more than it started out as, support for mapping controller functions to screen presses for apps with no MFi controller support and even better support for Moonlight, the Steam streaming app. Yet another ace in the hole for this tweak is the tvOS version. I’ve not had personal use with it, but the gaming prowess of the A10X tells me it’s likely an even better experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/editorials/ncontrol/tvOS-1.png&quot; alt=&quot;tvOS Screenshot 1&quot; /&gt;
+&lt;img src=&quot;/img/editorials/ncontrol/tvOS-2.png&quot; alt=&quot;tvOS Screenshot 2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;nControl is available for iOS on the Packix repo for $9.99, and the tvOS version is available via the Patreon linked in the product’s wiki page.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;sileo://package/com.nito.ncontrol&quot;&gt;Link to Package&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; nControl was purchased outright by me, for personal gaming use. This tweak was chosen to be highlighted by me, and the screenshots were provided to me by the developers either directly or via the repo listing. This editorial was produced prior to the announcement of iOS 13 and with it, native support for the DualShock 4 and Xbox One S Wireless Controller.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Have any questions?&lt;/strong&gt; Feel free to mention me (Aaron.#0023) on the &lt;a href=&quot;https://discord.gg/YRD4mSA&quot;&gt;Sileo discord&lt;/a&gt; or reach out to me on Twitter &lt;a href=&quot;https://twitter.com/23Aaron_&quot;&gt;@23Aaron_&lt;/a&gt;.&lt;/p&gt;</content><author><name>23 Aaron</name></author><summary type="html">Would you like to hear about the single most useless thing Apple sells in the Apple Store? It’s not the HomePod. It’s not the base 21.5” iMac with a 1080p display, spinning hard drive and 3 generation old i5 for $1,099. It’s not even the “Waterproof” AirPods case, which is tantamount to putting your AirPods into an open condom. The sad truth is that the most useless thing you can buy at the Apple Store is, in fact, quite a good product, none other than the SteelSeries Nimbus. It’s a fantastic controller with great features like being comfortable to hold, lovely tactile buttons, and it takes the same charger as your iPhone/iPad (unless you own an iPad Pro 3rd gen, you absolute baller, you).</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://getsileo.app/img/editorials/ncontrol/header.png" /><media:content medium="image" url="http://getsileo.app/img/editorials/ncontrol/header.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Jailbreak with Chimera for iOS 12</title><link href="http://getsileo.app/2019/04/29/chimera" rel="alternate" type="text/html" title="Jailbreak with Chimera for iOS 12" /><published>2019-04-29T00:00:00+00:00</published><updated>2019-04-29T00:00:00+00:00</updated><id>http://getsileo.app/2019/04/29/chimera</id><content type="html" xml:base="http://getsileo.app/2019/04/29/chimera">&lt;p&gt;The Electra Team is proud to announce our newest jailbreak tool — &lt;a href=&quot;https://chimera.sh&quot;&gt;Chimera&lt;/a&gt;, which supports &lt;strong&gt;all devices&lt;/strong&gt; running iOS/tvOS 12 to 12.1.2.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://chimera.sh&quot;&gt;Download Chimera&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;full-fledged&quot;&gt;Full-fledged&lt;/h2&gt;
+&lt;p&gt;Chimera is the first true iOS 12 jailbreak to not only feature a CoreTrust bypass so that binaries don’t need to be resigned, but to also support A12 devices, including iPhone Xs, iPhone Xr, and the newest iPads. Chimera doesn’t tamper with user files, making it safer than alternatives.&lt;/p&gt;
+
+&lt;h2 id=&quot;stable&quot;&gt;Stable&lt;/h2&gt;
+&lt;p&gt;We’ve rewritten Chimera from the ground up to ensure that there’s no battery drain, freezing, or crashing. There’s simply nothing else like it, and we can’t wait for you to see for yourself.&lt;/p&gt;
+
+&lt;h2 id=&quot;modern&quot;&gt;Modern&lt;/h2&gt;
+&lt;p&gt;Chimera comes with Sileo featuring a UI made to fit iOS, and packed full of features and speed enhancements to make installing packages a breeze. Rather than sticking to tools built decades ago, it ships with modern system tools designed to take advantage wherever possible.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Bundled with this new jailbreak, we have the Sileo 1.0 Release Candidate, which features the following:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The brand-new New tab, featuring new packages and news from the Sileo team.&lt;/li&gt;
+  &lt;li&gt;Other bug fixes and improvements.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">The Electra Team is proud to announce our newest jailbreak tool — Chimera, which supports all devices running iOS/tvOS 12 to 12.1.2.</summary></entry><entry><title type="html">The second Sileo Preview is now available</title><link href="http://getsileo.app/2018/12/29/sileo-preview-2" rel="alternate" type="text/html" title="The second Sileo Preview is now available" /><published>2018-12-29T00:00:00+00:00</published><updated>2018-12-29T00:00:00+00:00</updated><id>http://getsileo.app/2018/12/29/sileo-preview-2</id><content type="html" xml:base="http://getsileo.app/2018/12/29/sileo-preview-2">&lt;p&gt;The Sileo Team is pleased to announce that the second preview build of Sileo is now available, on the default Electra Repo.&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-new&quot;&gt;What’s new?&lt;/h2&gt;
+
+&lt;p&gt;Since the first preview, we have been hard at work improving your experience with Sileo.&lt;/p&gt;
+
+&lt;p&gt;This release includes the first preview of our News tab, which will be showing Sileo News throughout the beta.&lt;/p&gt;
+
+&lt;p&gt;This release includes bug fixes and stability improvements, some of which are listed below:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tapping the “Get” button now responds up to 2x faster&lt;/li&gt;
+  &lt;li&gt;Fixed an issue where invalid repositories could be added, resulting in a broken “Get” button&lt;/li&gt;
+  &lt;li&gt;Fixed the appearance of payment providers on iPads&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This release also switches to a more modern syntax for storing your repositories; this means that your current repositories will be reset upon installation of the new preview.&lt;/p&gt;
+
+&lt;h2 id=&quot;future-previews&quot;&gt;Future previews&lt;/h2&gt;
+
+&lt;p&gt;This release adds groundwork for localisation; we’re almost ready to start getting translations for other languages. To help out with the translation efforts, please keep a look out for tweets on &lt;a href=&quot;https://twitter.com/SileoSupport&quot;&gt;@SileoSupport&lt;/a&gt;. We can’t wait for you to be able to use Sileo in your native languages!&lt;/p&gt;
+
+&lt;p&gt;Our &lt;a href=&quot;https://developer.getsileo.app&quot;&gt;developer documentation&lt;/a&gt; will be launching soon, with information about how our innovative new features work. Please follow &lt;a href=&quot;https://twitter.com/SileoSupport&quot;&gt;@SileoSupport&lt;/a&gt; for updates regarding the launch of our developer portal.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;compatibility&quot;&gt;Compatibility&lt;/h2&gt;
+
+&lt;p&gt;For now, the preview only supports the latest version of &lt;a href=&quot;https://coolstar.org/electra/&quot;&gt;Electra&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;support&quot;&gt;Support&lt;/h2&gt;
+
+&lt;p&gt;Remember that this build of Sileo is simply a &lt;strong&gt;beta&lt;/strong&gt; preview. Some features may be absent or work incorrectly and you should expect a few bugs.&lt;/p&gt;
+
+&lt;p&gt;If you see something that you don’t think is right, or need help with something inside Sileo, you can &lt;a href=&quot;/#support&quot;&gt;contact us for support&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;repositories&quot;&gt;Repositories&lt;/h2&gt;
+
+&lt;p&gt;Every repository that works in Cydia should also work in Sileo. If you are having trouble with a repository, please &lt;a href=&quot;/#support&quot;&gt;let us know&lt;/a&gt;. We want to make sure Sileo can load all of your favourite repositories.&lt;/p&gt;
+
+&lt;p&gt;We’re working with our default repository partners to support payments and other important Sileo features. At this time, &lt;a href=&quot;https://repo.dynastic.co&quot;&gt;Dynastic Repo&lt;/a&gt; is the only repository that supports Sileo’s payment API, with &lt;a href=&quot;https://repo.chariz.io&quot;&gt;Chariz&lt;/a&gt; adding support very soon. You can also download Cydia Store packages you have previously purchased.&lt;/p&gt;
+
+&lt;h2 id=&quot;source-code&quot;&gt;Source Code&lt;/h2&gt;
+
+&lt;p&gt;The source code will remain private for the length of the Sileo Preview. It will be published at a later date.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Thanks for your interest in Sileo! We hope you love the Sileo Preview as much as us and can’t wait for you to get started with it!&lt;/p&gt;</content><author><name></name></author><summary type="html">The Sileo Team is pleased to announce that the second preview build of Sileo is now available, on the default Electra Repo.</summary></entry><entry><title type="html">Introducing Sileo Preview</title><link href="http://getsileo.app/2018/12/25/introducing-sileo-preview" rel="alternate" type="text/html" title="Introducing Sileo Preview" /><published>2018-12-25T00:00:00+00:00</published><updated>2018-12-25T00:00:00+00:00</updated><id>http://getsileo.app/2018/12/25/introducing-sileo-preview</id><content type="html" xml:base="http://getsileo.app/2018/12/25/introducing-sileo-preview">&lt;p&gt;After months of hard work from the Sileo team, we are proud to finally announce that the first Sileo Preview is now available! We can’t wait for you to use it.&lt;/p&gt;
+
+&lt;p&gt;If you’re interested in joining the preview, Sileo is now available on the default Electra Repo.&lt;/p&gt;
+
+&lt;h2 id=&quot;compatibility&quot;&gt;Compatibility&lt;/h2&gt;
+
+&lt;p&gt;For now, the preview only supports the latest version of &lt;a href=&quot;https://coolstar.org/electra/&quot;&gt;Electra&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;support&quot;&gt;Support&lt;/h2&gt;
+
+&lt;p&gt;Remember that this build of Sileo is simply a &lt;strong&gt;beta&lt;/strong&gt; preview. Some features may be absent or work incorrectly and you should expect a few bugs.&lt;/p&gt;
+
+&lt;p&gt;If you see something that you don’t think is right, or need help with something inside Sileo, you can &lt;a href=&quot;/#support&quot;&gt;contact us for support&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;repositories&quot;&gt;Repositories&lt;/h2&gt;
+
+&lt;p&gt;Every repository that works in Cydia should also work in Sileo. If you are having trouble with a repository, please &lt;a href=&quot;/#support&quot;&gt;let us know&lt;/a&gt;. We want to make sure Sileo can load all of your favourite repositories.&lt;/p&gt;
+
+&lt;p&gt;We’re working with our default repository partners to support payments and other important Sileo features. At this time, &lt;a href=&quot;https://repo.dynastic.co&quot;&gt;Dynastic Repo&lt;/a&gt; is the only repository that supports Sileo’s payment API, with &lt;a href=&quot;https://repo.chariz.io&quot;&gt;Chariz&lt;/a&gt; adding support very soon. You can also download Cydia Store packages you have previously purchased.&lt;/p&gt;
+
+&lt;h2 id=&quot;source-code&quot;&gt;Source Code&lt;/h2&gt;
+
+&lt;p&gt;The source code will remain private for the length of the Sileo Preview. It will be published at a later date.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Thanks for your interest in Sileo! We hope you love the Sileo Preview as much as us and can’t wait for you to get started with it!&lt;/p&gt;</content><author><name></name></author><summary type="html">After months of hard work from the Sileo team, we are proud to finally announce that the first Sileo Preview is now available! We can’t wait for you to use it.</summary></entry></feed>
